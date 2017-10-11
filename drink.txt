@@ -1,3 +1,4 @@
-Coke
+Wine
 Fanta
 Lemonade
+Beer
